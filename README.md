@@ -1,2 +1,2 @@
 # study-materials
-Self-made study guides created to prepare for various certifications.
+Self-made study guides created and reference charts.

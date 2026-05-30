@@ -1,2 +1,2 @@
 # study-materials
-Self-made study guides created and reference charts.
+Self-made study guides and reference charts.
